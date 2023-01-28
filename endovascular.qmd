@@ -86,7 +86,7 @@ With manual palpation, a finger is placed above and below the desired access poi
 
 Fluoroscopic guidance uses bony landmarks relative to the position of the needle.
 
-The standard of care in the modern era for obtaining CFA access is to use ultrasound guidance. Ultrasound allows visualization of the vessel and surrounding structures. PAD within the vessel can readily be identified with ultrasound, allowing safe access in a relatively disease-free part of the artery. Ultrasound also clearly shows the femoral bifurcation. Using ultrasound allows for subtle corrections in the angle of the needle and how it interacts with the surrounding tissues. It is rapid, real-time, inexpensive, and safe.
+The standard of care in the modern era for obtaining CFA access is to use ultrasound guidance. Ultrasound allows visualization of the vessel and surrounding structures. PAD within the vessel can readily be identified with ultrasound, allowing safe access in a relatively disease-free part of the artery. Ultrasound also clearly shows the femoral bifurcation. Using ultrasound allows for subtle corrections in the angle of the needle and how it interacts with the surrounding tissues. It is rapid, real-time, inexpensive, and safe.[@sorrentino2020]
 
 **What anatomic considerations should be taken when accessing the CFA?**
 
