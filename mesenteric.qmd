@@ -130,7 +130,7 @@ Yeah, so again, because the field is frequently contaminated or dirty, a good co
 
 [Short retrograde aorto-SMA bypass:]{.underline}
 
-This bypass takes is origin off of the aorta just below the SMA, anastomosing typically end-side onto the SMA just below its origin in order to bypass ostial or very proximal disease. This is a relatively quick bypass, with only one field of dissection directly from the aorta below the SMA onto the proximal-mid SMA. The length of the bypass is very short, limiting concerns with kinking or twisting of the bypass. However, this may not always be feasible, as SMA disease often coexists with significant aortic disease. Additionally, the other bypasses described have better reported patency.
+This bypass takes is origin off of the aorta just below the SMA, anastomosing typically end-side onto the SMA just below its origin in order to bypass ostial or very proximal disease. This is a relatively quick bypass, with only one field of dissection directly from the aorta below the SMA onto the proximal-mid SMA. The length of the bypass is very short, limiting concerns with kinking or twisting of the bypass. However, this may not always be feasible, as SMA disease often coexists with significant aortic disease. Additionally, the other bypasses described have better reported patency. (new reference: @scalisalvatore2019 https://doi.org/10.1016/j.jvs.2018.04.063)
 
 [Long retrograde R iliac-SMA bypass ("C-loop"):]{.underline}
 
@@ -144,11 +144,11 @@ This bypass originates from the supraceliac aorta. If revascularization of both 
 
 [Retrograde open mesenteric stenting (ROMS)]{.underline}
 
-So ROMS is a hybrid procedure involving an upper mid-line laparotomy that is used to evaluate the bowel. Through this incision, SMA exposure is obtained just as in a traditional open fashion at the root of the mesentery. The mid-SMA is then punctured under direct vision, and the area of disease is attempted to be treated from a retrograde approach back into the aorta. If bowel ischemia is found, the upper mid-line is easily lengthened into a traditional vertical laparotomy incision.
+So ROMS is a hybrid procedure involving an upper mid-line laparotomy that is used to evaluate the bowel. Through this incision, SMA exposure is obtained just as in a traditional open fashion at the root of the mesentery. The mid-SMA is then punctured under direct vision, and the area of disease is attempted to be treated from a retrograde approach back into the aorta. If bowel ischemia is found, the upper mid-line is easily lengthened into a traditional vertical laparotomy incision. (new reference: @milnerross2004 https://doi.org/10.1177/153857440403800112) (new reference: @blauwjuliette2014 https://doi.org/10.1016/j.jvs.2014.04.001) (new reference: @oderichgustavo2017 https://doi.org/10.1016/j.jvs.2017.11.086)
 
 [Endovascular treatment (percutaneous thrombectomy / thrombolysis / pharmacomechanical thrombectomy)]{.underline}
 
-Some authors have described completely endovascular approaches to treatment of acute mesenteric ischemia. However, the major limitation is the inability to assess the bowel. These patients are frequently those who are deemed to be lower-risk for frank bowel ischemia or perforation, but the rates of laparotomy and bowel resection after these treatments have been described at over 20%. Probably not your first answer for oral boards.
+Some authors have described completely endovascular approaches to treatment of acute mesenteric ischemia. However, the major limitation is the inability to assess the bowel. These patients are frequently those who are deemed to be lower-risk for frank bowel ischemia or perforation, but the rates of laparotomy and bowel resection after these treatments have been described very high rates. Probably not your first answer for oral boards.  (new reference: @limsungho2018 https://doi.org/10.1177/1538574418805228)
 
 ### Other Etiologies
 
@@ -190,7 +190,7 @@ So to review the numbers: [@monetaDuplexUltrasoundCriteria1991; @monetaMesenteri
 
 -   PSVs: 200 in the celiac or 275 in the SMA gives you 70% stenosis
 
--   EDVs: 50s in the celiac or 50s in the SMA gives you 50% stenosis
+-   EDVs: 50 in the celiac or 50 in the SMA gives you 50% stenosis
 
 -   EDV #2: 100 in the celiac, or 70 in the SMA gives you 70% stenosis.
 
@@ -220,15 +220,21 @@ In most centers, up to 80% of CMI is treated endovascularly. Open is often reser
 
 So we talked a lot about open revascularization earlier in the acute mesenteric ischemia segment. The techniques are broadly similar, with the exception that often for chronic mesenteric ischemia, frequently you'll be planning to revascularize both the celiac and the SMA. The approach for this is with a bifurcated graft from the supraceliac aorta, taking one limb down to the celiac artery, and the other limb tunneled in a retropancreatic fashion to the mid-SMA. Remember that this approach requires a supraceliac aortic cross clamp, which your patient may not be able to tolerate. But single revascularization of SMA is often acceptable with appropriate collaterals. Taking a retrograde bypass off of the common iliac artery as we previously described may be a better option for patients with significant comorbidities. A further option that completely avoids a bypass is to go right for a trapdoor endarterectomy of the celiac artery and the SMA, allowing you to address coral reef or proximal/ostial disease (such as flush occlusions) that are difficult to treat endovascularly. 
 
-## Mesenteric Aneurysms
+## Visceral Aneurysms
+
+Aneurysms can occur in a diverse range of vascular beds in the visceral vessels.  Size criteria for repair is dependent on the location and the etiology, with some aneurysms mandating repair at any size (gastric, gastroepiploic, gastroduodenal, pancreaticoduodenal, SMA, colic), and others considered appropriate to observe in asymptomatic patients until certain size thresholds are met.   The SVS clinical practice guidelines are the optimal resource to review these criteria.
+
+![fx1_lrg](https://user-images.githubusercontent.com/116117039/214932687-2793d78b-71e0-499e-ab00-bccafc45771b.jpg)
+
+(new reference: @chaerrabih2020 https://doi.org/10.1016/j.jvs.2020.01.039)
 
 ### SMA Aneurysm
 
 If symptomatic, most SMA aneurysms are mycotic in nature and require treatment. Treat with resection and saphenous vein interposition and 6 weeks antibiotic therapy based on intraoperative cultures.[@leeInfectedMycoticAneurysms2008]
 
-Asymptomatic aneurysms can be observed up to 2.5cm.[@kwong85SplanchnicArtery; @stoneSuperiorMesentericArtery2002]
-
 ### Splenic Aneurysm
+
+Repair all pseudoaneurysms, or if size > 3cm, or at any size if of childbearing age.  Consider splenectomy vaccines pre-treatment (covers encapsulated organisms Shigella, Haemophilus influenzae, and Neisseria). 
 
 Post splenic aneurysm embolization, L flank pain in stable patients likely represents splenic infarction. Treat with hydration and analgesia. Rates are lower in stented patients.[@kwong85SplanchnicArtery; @piffarettiSplenicArteryAneurysms2007; @zhuEndovascularSurgicalManagement2019]
 
