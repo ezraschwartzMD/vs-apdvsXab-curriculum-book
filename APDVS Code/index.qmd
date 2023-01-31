@@ -2,7 +2,7 @@
 
 This content was developed to accompany the Association of Program Directors in Vascular Surgery's (APDVS) medical student curriculum. Each chapter covers a key domain of vascular surgery pathology and treatment, and is associated with an Audible Bleeding episode which you can access through the link embedded into the text.
 
-This e-book is would not have been possible without the [Association of Program Directors in Vascular Surgery (APDVS)](https://vascular.org/apdvs), the guidance and resources of [Dr. Adam Johnson](https://twitter.com/Adam_mdmph), the [Audible Bleeding Vascular Surgery Exam Prep project](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/), and the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/).
+This eBook would not have been possible without the [Association of Program Directors in Vascular Surgery (APDVS)](https://vascular.org/apdvs), the guidance and resources of [Dr. Adam Johnson](https://twitter.com/Adam_mdmph), the [Audible Bleeding Vascular Surgery Exam Prep project](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/), and the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/).
 
 **Editors:** [Ezra Schwartz](https://twitter.com/EzraSchwartz10) and the [Association of Program Directors in Vascular Surgery](https://vascular.org/apdvs)
 
@@ -10,7 +10,7 @@ Version 01.0
 
 ## Usage
 
-This eBook is intended to be a medical student level, easily accessible review for vascular surgery rotations and general medical education. This e-book is paired with Powerpoint lectures produces by the APDVS and podcast content produced by Audible Bleeding, a publication of the Society of Vascular Surgery.
+This eBook is intended to be a medical student level, easily accessible review for vascular surgery rotations and general medical education. This eBook is paired with slide decks, pre- and post-reading questions, and a teaching case produced by the APDVS in addition to podcast content produced by Audible Bleeding, a publication of the Society of Vascular Surgery.
 
 Please consider this a "living document." We plan to post regular updates and respond to your feedback. We are utilizing an open source annotations software called [hypothes.is](https://web.hypothes.is) to allow you to take note along side our eBook. Feel free to post your notes publicly if you think other readers would benefit from your additions, or create a small private group for your local trainees of faculty members. We will work to incorporate relevant notes and additions into future editions.
 
@@ -20,13 +20,11 @@ We are excited to provide our readers and listeners a free and open opportunity 
 
 ## Additional Resources
 
-We hope you use this eBook as a review for your rotations, medical lisencing examinations, and entry to independent practice. This resource is by no means comprehensive. We have done our best to reference and link to more comprehensive resources throughout the text so that you can dive deeper into topics that are beyond the scope of this review. We try to prioritize open access publications and free, high quality, unbiased materials. A few highly recommended additional resources include:
+We hope you use this eBook as a review for your rotations, medical licencing examinations, and entry to independent practice. This resource is by no means comprehensive. We have done our best to reference and link to more comprehensive resources throughout the text so that you can dive deeper into topics that are beyond the scope of this review. We try to prioritize open access publications and free, high quality, unbiased materials. A few highly recommended additional resources include:
 
 -   The [Audible Bleeding Exam Prep curriculum](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/) and the associated podcast series.
-
--   While this resource is intended for postgraduate trainees and fellows and therefore beyond the scope of this curriculum, it is a well authored, no-nonsense resource for those who wish to deepen their knowledge base.
-
--   The accompanying podcast series also allows you to learn or study on the go!
+    -   While this resource is intended for postgraduate trainees and fellows and therefore beyond the scope of this curriculum, it is a well authored, no-nonsense resource for those who wish to deepen their knowledge base.
+    -   The accompanying podcast series also allows you to learn or study on the go!
 
 -   [TeachMe Surgery](https://teachmesurgery.com/vascular/) is a student friendly online resource complete with short quizzes to help cement learning and recommended readings from the literature. Clear and concise, this is a great just-in-time learning resource.
 
