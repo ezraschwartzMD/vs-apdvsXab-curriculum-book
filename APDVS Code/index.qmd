@@ -6,7 +6,7 @@ This eBook would not have been possible without the [Association of Program Dire
 
 **Editors:** [Ezra Schwartz](https://twitter.com/EzraSchwartz10) and the [Association of Program Directors in Vascular Surgery](https://vascular.org/apdvs)
 
-Version 01.0
+Version 01.01
 
 ## Usage
 
