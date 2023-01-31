@@ -2,66 +2,65 @@ project:
   type: book
 
 book:
-  title: "Vascular Surgery Exam Prep"
+  title: "APDVS Medical Student Curriculum"
   author: "Audible Bleeding"
-  date: "01/24/2023"
-  description: "eBook Companion for Audible Bleeding Podcast Series"
+  date: "01/31/2023"
+  description: "eBook Companion to the APDVS Medical Student Curriculum"
   cover-image: images/ab_examprep_cover.jpg
-  chapters:
-    - index.qmd
-    - authors.qmd
+ chapters:
+  - index.qmd
+- authors.qmd
 
-    - part: "Head and Neck"
-      chapters:
-       - cerebrovascular.qmd
-       - trauma-cerebrovascular.qmd
+- part: "Approach to the Vascular Patient"
+chapters:
+  - PatientHistory.qmd
+- VascularPhysicalExam.qmd
 
-    - part: "Upper Extremity"
-      chapters: 
-        - upper-extremity.qmd
-        - tos.qmd
-        - hemodialysis.qmd
-        
-    - part: "Thorax"
-      chapters:
-        - dissection.qmd
-        - taaa.qmd
-        - aortopathies.qmd
-        - trauma-endovascular.qmd
-    
-    - part: "Abdomen"
-      chapters:
-        - abdominal-aneurysms.qmd
-        - mesenteric.qmd
-        - renal.qmd
-        - trauma-arterial.qmd
-        - trauma-venous.qmd
-         
-    - part: "Lower Extremity"
-      chapters:
-        - claudication.qmd
-        - clti.qmd
-        - ali.qmd
-        - venous-disease.qmd
-        - trauma-peripheral.qmd
-        
-    - part: "General"
-      chapters:
-        - vascular-lab.qmd
-        - radiation.qmd
-        - endovascular.qmd
+- part: "Carotid Disorders"
+chapters: 
+  - CarotidDisorders.qmd
 
-    - references.qmd
+- part: "Aortic Disorders"
+chapters: 
+  - AAA.qmd
+- TAA/TAAA.qmd
+- AorticDissection.qmd
 
-  repo-url: https://github.com/adam-mdmph/vs-examprep.git
-  google-analytics: "G-T4DWNE55D1"
+- part: "PAD"
+chapters:
+  - Claudication.qmd
+- CLTI.qmd
+- ALI.qmd
+
+- part: "Venous Disease"
+chapters:
+  - DVT & PE.qmd
+- ChronicVenousInsuficiency.qmd
+
+- part: "Miscellaneous"
+chapters:
+  - AcuteMesentericIschemia.qmd
+- DialysisAccess.qmd
+- Lymphedema.qmd
+- PeripheralAneurysms.qmd
+
+- part: "General"
+chapters:
+  - vascular-lab.qmd
+- radiation.qmd
+- endovascular.qmd
+
+- references.qmd
+
+  repo-url: https://https://github.com/ezraschwartzMD/vs-apdvsXab-curriculum-book.git
+  google-analytics:
   cookie-consent: true
   number-sections: true
   crossref:
     chapters: true
   open-graph: true
   twitter-card:
-    image: "https://raw.githubusercontent.com/adam-mdmph/vs-examprep/main/images/ab_examprep_cover.png"
+    image: 
   favicon: images/ab_examprep_icon.png
   
 bibliography: references.bib
