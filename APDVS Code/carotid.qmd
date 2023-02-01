@@ -1,0 +1,15 @@
+---
+title: "carotid"
+format: html
+editor: visual
+---
+
+# Carotid
+
+Authors: *Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS*
+
+## Chapter Outline
+
+**Key Facts** 
+1. Stroke is the leading cause of disability nationally and 3rd leading cause of death with a breakdown of 80% occlusive and 20% hemorrhagic. 2. Symptomatic Carotid Stenosis presents with only three symptoms including: Stroke, Transient Ischemic Attack (TIA) and Amaurosis Fugax (transient retinal ischemia). 3. Risk factors include: Age, smoking, CAD, Diabetes, Hypertension, Hyperlipidemia and genetic/family history.\
+4. Seminal studies include ACAS and NASCET defining an 11% five-year risk of stroke for asymptomatic carotid artery stenosis (\>60%) and 24% two-year risk of stroke for symptomatic disease (\>70%), respectively. 5. CREST landmark study associating carotid artery stenting with higher perioperative risk of stroke and carotid endarterectomy (CEA) with higher risk of myocardial infarction (MI) in symptomatic patients. 6. Carotid Artery Stenting (CAS) indicated for recurrent stenosis after CEA, neck immobility, high carotid bifurcation, contralateral occlusion, high risk open surgical candidate due to cardiopulmonary comorbidity and neck radiation. 7. Transcarotid artery revascularization (TCAR) available for direct common carotid delivery of stent avoiding aortic arch manipulation and providing embolic protection through flow reversal. 8. Marginal benefit for intervention for asymptomatic carotid artery stenosis patients with significant cardiopulmonary disease due to risks of associated perioperative events.
