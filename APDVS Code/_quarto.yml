@@ -8,45 +8,45 @@ book:
   description: "eBook Companion to the APDVS Medical Student Curriculum"
   cover-image: images/ab_examprep_cover.jpg
  chapters:
-  - index.qmd
+- index.qmd
 - authors.qmd
 
 - part: "Approach to the Vascular Patient"
 chapters:
-  - PatientHistory.qmd
+- PatientHistory.qmd
 - VascularPhysicalExam.qmd
 
 - part: "Carotid Disorders"
 chapters: 
-  - CarotidDisorders.qmd
+- CarotidDisorders.qmd
 
 - part: "Aortic Disorders"
 chapters: 
-  - AAA.qmd
+- AAA.qmd
 - TAA/TAAA.qmd
 - AorticDissection.qmd
 
 - part: "PAD"
 chapters:
-  - Claudication.qmd
+- Claudication.qmd
 - CLTI.qmd
 - ALI.qmd
 
 - part: "Venous Disease"
 chapters:
-  - DVT & PE.qmd
+- DVT & PE.qmd
 - ChronicVenousInsuficiency.qmd
 
 - part: "Miscellaneous"
 chapters:
-  - AcuteMesentericIschemia.qmd
+- AcuteMesentericIschemia.qmd
 - DialysisAccess.qmd
 - Lymphedema.qmd
 - PeripheralAneurysms.qmd
 
 - part: "General"
 chapters:
-  - vascular-lab.qmd
+- vascular-lab.qmd
 - radiation.qmd
 - endovascular.qmd
 
