@@ -4,12 +4,47 @@ format: html
 editor: visual
 ---
 
-# Carotid
+# Carotid APDVS Medical Student Curriculum
 
 Authors: *Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS*
 
 ## Chapter Outline
 
-**Key Facts** 
-1. Stroke is the leading cause of disability nationally and 3rd leading cause of death with a breakdown of 80% occlusive and 20% hemorrhagic. 2. Symptomatic Carotid Stenosis presents with only three symptoms including: Stroke, Transient Ischemic Attack (TIA) and Amaurosis Fugax (transient retinal ischemia). 3. Risk factors include: Age, smoking, CAD, Diabetes, Hypertension, Hyperlipidemia and genetic/family history.\
-4. Seminal studies include ACAS and NASCET defining an 11% five-year risk of stroke for asymptomatic carotid artery stenosis (\>60%) and 24% two-year risk of stroke for symptomatic disease (\>70%), respectively. 5. CREST landmark study associating carotid artery stenting with higher perioperative risk of stroke and carotid endarterectomy (CEA) with higher risk of myocardial infarction (MI) in symptomatic patients. 6. Carotid Artery Stenting (CAS) indicated for recurrent stenosis after CEA, neck immobility, high carotid bifurcation, contralateral occlusion, high risk open surgical candidate due to cardiopulmonary comorbidity and neck radiation. 7. Transcarotid artery revascularization (TCAR) available for direct common carotid delivery of stent avoiding aortic arch manipulation and providing embolic protection through flow reversal. 8. Marginal benefit for intervention for asymptomatic carotid artery stenosis patients with significant cardiopulmonary disease due to risks of associated perioperative events.
+**Key Facts**
+
+1.  Stroke is the leading cause of disability nationally and 3rd leading cause of death with a breakdown of 80% occlusive and 20% hemorrhagic.
+2.  Symptomatic Carotid Stenosis presents with only three symptoms including: Stroke, Transient Ischemic Attack (TIA) and Amaurosis Fugax (transient retinal ischemia).
+3.  Risk factors include: Age, smoking, CAD, Diabetes, Hypertension, Hyperlipidemia and genetic/family history.
+4.  Seminal studies include ACAS and NASCET defining an 11% five-year risk of stroke for asymptomatic carotid artery stenosis (\>60%) and 24% two-year risk of stroke for symptomatic disease (\>70%), respectively.
+5.  CREST landmark study associating carotid artery stenting with higher perioperative risk of stroke and carotid endarterectomy (CEA) with higher risk of myocardial infarction (MI) in symptomatic patients.
+6.  Carotid Artery Stenting (CAS) indicated for recurrent stenosis after CEA, neck immobility, high carotid bifurcation, contralateral occlusion, high risk open surgical candidate due to cardiopulmonary comorbidity and neck radiation.
+7.  Transcarotid artery revascularization (TCAR) available for direct common carotid delivery of stent avoiding aortic arch manipulation and providing embolic protection through flow reversal.
+8.  Marginal benefit for intervention for asymptomatic carotid artery stenosis patients with significant cardiopulmonary disease due to risks of associated perioperative events.
+
+## Introduction
+
+Hemispheric Stroke related to carotid stenosis is a leading cause of both disability and death in the United States. Underlying etiologies for stroke include occlusive or hemorrhagic events with roughly 80% being related to occlusive pathology through embolus or in-situ thrombosis, the remaining 20% attributable to hemorrhage. Roughly 15% of stroke victims have a transient ischemic attack (TIA) that fully resolved prior to a later stroke event. Risk factors for carotid plaque formation are related to age, smoking, coronary artery disease, diabetes, hyperlipidemia, hypertension and family history of stroke. Due to carotid bulb anatomy, the most common area of plaque formation is within the proximal internal carotid artery. As plaque stenosis increases over time, the systolic velocity increases to maintain flow volumes which intensifies shear stress. This shear stress increases likelihood of plaque rupture, platelet aggregation and thromboembolization. There are multiple seminal studies that describe cohort comparisons of asymptomatic and symptomatic carotid artery stenosis with outcomes related to optimal medical management alone or as adjunct to surgical repair. Symptomatic carotid stenosis is described as carotid stenosis \>50% with unilateral stroke, TIA or amaurosis fugax on the side of carotid disease. Amaurosis fugax is historically described as shade coming down across one eye on the side of stenosis to produce complete monocular visual loss related to transient retinal ischemia.
+
+## Etiology
+
+Atherosclerosis is the most common cause for the development of carotid artery disease. This process is defined by deposition of lipid-laden plaque at the carotid bifurcation, and potentially across a larger territory of the common carotid, external carotid, and internal carotid arteries. This plaque may contain varying degrees of calcification and/or thrombus. The mechanisms by which atherosclerosis at the carotid bifurcation may lead to stroke or TIA are: occlusion (cessation of blood flow to the internal carotid artery) or embolization (plaque debris break off and travel through the internal carotid artery to the brain). There are various risk factors which may contribute to the degree of atherosclerosis and its progression. These include history of cigarette smoking, hyperlipidemia, coronary artery disease, diabetes, hypertension, advanced age, and family history of carotid disease or stroke.
+
+## Diagnostics and Imaging
+
+Three primary imaging modalities are used to evaluate carotid artery stenosis with the lowest cost option being color flow duplex ultrasound (DSA) that allows a physician to determine peak systolic and end diastolic velocities throughout the carotid bifurcation. Based on the internally validated vascular laboratory criteria of the institution, these velocities can be correlated to ranges of degree of stenosis, with high grade stenosis defined as \>70-80%. Since the modality is based primarily on velocity range, it cannot give exact stenosis such as 66%. The modality can also provide adjunct information about the blood flow waveforms in each arterial segment, as well as whether that flow is laminar or turbulent with utilization of color flow imaging. Limitations of this imaging include technician skill, inability to obtain optimal angle of doppler interrogation for velocity determination, shadowing from heavily calcified lesions, poor visualization due to patient habitus and tortuosity.
+
+Axial imaging options include both Computed Tomography Angiogram (CTA) and Magnetic Resonance Angiogram (MRA). Both of these two options require some form of intra-arterial contrast either iodinated contrast or gadolinium, respectively. However, they offer a fuller perspective of relevant anatomy and a more precise determination of stenosis within the limitations of the modality, with MRA often overestimating the degree of stenosis due to intrinsic properties of MRA imaging acquisition. Both CTA and MRA, although superior to DSA in determination of exact degree of plaque stenosis and arterial anatomy, sacrifice the physiologic information offered through DSA that speak to flow patterns, flow direction and turbulence. Axial imaging of CTA and MRA can define patency but do not speak to the dynamic nature of blood flow or directionality of flow.
+
+Definitive determination of flow and directionality can be augmented to a carotid artery stenosis workup by diagnostic angiography. This requires femoral artery access and includes contrast administration, as well as a small risk of periprocedural embolization. However, it offers additional physiologic evaluation that might not be present in DSA and that is inherently lacking in CTA and MRA studies.
+
+## Treatment
+
+###Carotid Artery Endarterectomy (CEA)
+
+Procedure has been performed since the 1950s either with plaque endarterectomy with patch angioplasty or with primary arterial repair. To prevent arterial restenosis, patch angioplasty has become the standard of arterial closure after plaque removal. The procedure can involve cerebral monitoring including EEG, TCD and stump pressure monitoring or be performed awake to directly monitor patient motor response. Patch repair can be performed under a "clamp and sew" mentality or with an arterial shunt to maintain cerebral perfusion during endarterectomy and patch repair. Risks include cardiopulmonary risk of acute myocardial ischemia, \<3% perioperative risk of neurologic event, neck hematoma or cranial nerve injury of roughly 5-10% affecting the vagus, marginal mandibular, recurrent laryngeal or hypoglossal nerves.
+
+### Carotid Artery Stenting (CAS)
+
+#### Transfemoral Stenting with embolic protection
+
+Transfemoral stenting requires some type of protection from embolization including a distal internal carotid artery retrievable filter or flow arrest procedure to prevent cerebral embolization during stent placement with or without angioplasty.
