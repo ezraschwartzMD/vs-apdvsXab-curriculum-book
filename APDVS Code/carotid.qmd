@@ -2,6 +2,7 @@
 title: "carotid"
 format: html
 editor: visual
+number-sections: true
 ---
 
 # Carotid APDVS Medical Student Curriculum
