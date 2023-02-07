@@ -13,7 +13,7 @@ book:
     
     - part: "Approach to the Vascular Patient"
       chapters:
-      - arterialhisotryandphysicalexam.qmd
+      - arterialhistoryandphysicalexam.qmd
       - venoushistoryandphysicalexam.qmd
     
     - part: "Carotid Disorders"
@@ -54,9 +54,6 @@ book:
 
   repo-url: https://https://github.com/ezraschwartzMD/vs-apdvsXab-curriculum-book.git
   cookie-consent: true
-  number_sections: true
-  crossref:
-    chapters: true
   favicon: images/ab_examprep_icon.png
   
 bibliography: references.bib
