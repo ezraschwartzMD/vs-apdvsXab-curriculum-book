@@ -34,7 +34,7 @@ book:
 
     - part: "Venous Disease"
       chapters:
-      - DVT & PE.qmd
+      - DVT-PE.qmd
       - ChronicVenousInsuficiency.qmd
 
     - part: "Miscellaneous"

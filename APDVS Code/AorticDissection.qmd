@@ -1,0 +1,14 @@
+---
+title: "AorticDissection"
+format: html
+editor: visual
+number-sections: true
+---
+
+## Aortic Dissection, APDVS Medical Student Curriculum
+
+Authors: *xxxx*
+
+## Chapter Outline
+
+**Key Facts**
