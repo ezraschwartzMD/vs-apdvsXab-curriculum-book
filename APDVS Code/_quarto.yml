@@ -23,7 +23,7 @@ book:
     - part: "Aortic Disorders"
       chapters: 
       - AAA.qmd
-      - TAA/TAAA.qmd
+      - TAA-TAAA.qmd
       - AorticDissection.qmd
     
     - part: "PAD"

@@ -1,0 +1,18 @@
+---
+title: "venoushistoryandphysicalexam"
+format: html
+editor: visual
+number-sections: true
+---
+
+# Patient History and Physical Examination of the *Venous System*, APDVS Medical Student Curriculum
+
+Authors: *xxxx*
+
+## Chapter Outline
+
+**Key Facts**
+
+------------------------------------------------------------------------
+
+## Introduction
