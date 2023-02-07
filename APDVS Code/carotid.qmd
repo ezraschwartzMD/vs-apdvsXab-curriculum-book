@@ -1,5 +1,8 @@
 ---
 title: "carotid"
+title-block-banner: true
+title-block-banner-color: red
+author-title: Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS
 format: html
 editor: visual
 number-sections: true
@@ -116,12 +119,6 @@ Understandably, optimal medical management requires full risk evaluation of the 
 3.  [Endarterectomy for asymptomatic carotid stenosis.Executive Committee for the Asymptomatic Carotid Atherosclerosis Study.](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/neurology/documents/ACAS.pdf) JAMA 1995;273(18):1421-8.
 4.  [Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade stenosis. North American Symptomatic Carotid Endarterectomy (NASCET) Trial Collaborators.](https://www.nejm.org/doi/10.1056/NEJM199108153250701?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov) N Engl J Med 1991;325(7):445-53.
 
--   Audible Bleeding has an episode covering the NASCET trial. Listen to it below, [here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/) or wherever you listen to podcast material.
-
-```{r echo=FALSE}
-<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20601968/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-```
-
 5.  Howard D.P.J., Gaziano L., Rothwell P.M.: [Risk of stroke in relation to degree of asymptomatic carotid stenosis: a population-based cohort study, systematic review, and meta-analysis.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30484-1/fulltext) Lancet Neurol 2021; 20: pp. 193-202.
 
 ------------------------------------------------------------------------
@@ -129,4 +126,8 @@ Understandably, optimal medical management requires full risk evaluation of the 
 ## Additional Resources
 
 -   [Audible Bleeding Exam Prep: Cerebrovascular Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/cerebrovascular.html)
--   
+-   Audible Bleeding has an episode covering the NASCET trial. Listen to it below, [here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/) or wherever you listen to podcast material.
+
+```{r echo=FALSE}
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20601968/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+```
