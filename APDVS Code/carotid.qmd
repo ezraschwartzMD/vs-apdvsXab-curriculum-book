@@ -1,11 +1,9 @@
 ---
-title: "carotid"
-title-block-banner: true
-title-block-banner-color: red
+title: "Carotid Disorders"
+title-block-banner: false
 author-title: Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS
 format: html
 editor: visual
-number-sections: true
 bibliography: references.bib
 ---
 
