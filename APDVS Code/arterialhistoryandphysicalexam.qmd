@@ -1,0 +1,44 @@
+---
+title: "Arterial History and Physical Exam"
+format: html
+editor: visual
+---
+
+# Patient History and Physical Examination of the Arterial System, APDVS Medical Student Curriculum
+
+Authors: *Dr. Loay S Kabbani, MD, MHSA, FACS and Dr. Cassius Iyad Ochoa Chaar, MD, MS, RPVI*
+
+## Chapter Outline
+
+**Key Facts**
+
+------------------------------------------------------------------------
+
+## Introduction
+
+If you pay close attention to the patient, *"the patient will tell you what is wrong."* Specialized testing should always be guided by the initial clinical impressions.
+
+Though the electronic medical record helps eliminate repetitive questions and tests, it tends to divert attention from the importance of talking to and examining the patient. Interacting with the patient and family during the history and physical is extremely important to **build rapport with the patients and their family.**
+
+For vascular patients passing the **"eyeball test"** is important before discussing complex procedures. This includes knowing the level of independent living.
+
+------------------------------------------------------------------------
+
+## Patient History of the Arterial System
+
+As a vascular specialist, a focused arterial history should include the arteries of the neck, torso, and extremities. Many diseases are systemic. For example, atherosclerotic disease affects the carotids, heart, upper extremities, abdominal blood vessels, and lower extremities. Patients with an abdominal aortic aneurysm may have synchronous peripheral aneurysms.
+
+### Head and Neck:
+
+-   The history should focus on the carotid arteries' disease **(Link to chapter)**---specifically, any history of stroke, transient ischemic attacks ( TIA), or amaurosis fugax.
+-   Amaurosis fugax is described as a curtain or shade causing transient monocular blindness. This is usually caused by emboli from the carotid disease on the ipsilateral side but may be caused by other embolic sources, migraine, and giant cell arteritis.
+-   Syncopal episodes are usually not vascular in nature. However, in patients with subclavian stenosis may be a manifestation of subclavian steal syndrome.
+-   History of carotid interventions and studies should be elucidated and obtained.
+
+### Upper Extremity:
+
+-   The evaluation depends on the timing (acute vs. chronic) and then the degree of ischemia (claudication vs. chronic limb-threatening ischemia) .
+-   Acute limb ischemia (ALI) is a sudden occlusion of the blood supply with no time for collateral vessels to develop. It is characterized by the **6 Ps.** *Pulselessness, pain, pallor, paresthesia, poikilothermia (cold), and paralysis.* The most common etiology of acute limb ischemia is embolic. However, uncommon causes may be thrombosis of a subclavian–axillary aneurysm. 
+-   Intermittent hand coldness associated with pain, numbness may reflect Raynaud's syndrome (associated with cold exposure) or small vessel vasospasm like frostbite or scleroderma. 
+-   Raynaud phenomena present as episodes of vasospasm in response to cold or stress. The patient describes the affected areas turning white, blue, and red during an attack. It is associated with feeling cold and numb. As the circulation improves and the affected areas turn red, there is throbbing, tingling, and swelling.
+-   Episodes of ischemia to the digits may be persistent and severe and associated with underlying obliterative microangiopathy and manifest with pain, tissue loss (ulceration or gangrene).

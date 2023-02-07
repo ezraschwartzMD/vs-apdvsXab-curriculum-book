@@ -5,7 +5,7 @@ editor: visual
 number-sections: true
 ---
 
-# Carotid APDVS Medical Student Curriculum
+# Carotid Disorders, APDVS Medical Student Curriculum
 
 Authors: *Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS*
 

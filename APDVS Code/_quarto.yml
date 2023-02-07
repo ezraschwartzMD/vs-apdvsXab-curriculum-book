@@ -8,17 +8,17 @@ book:
   description: "eBook Companion to the APDVS Medical Student Curriculum"
   cover-image: images/ab_examprep_cover.jpg
   chapters:
-    - index.qmd
+    - index.qmd 
     - authors.qmd
     
     - part: "Approach to the Vascular Patient"
       chapters:
-      - PatientHistory.qmd
-      - VascularPhysicalExam.qmd
+      - arterialhisotryandphysicalexam.qmd
+      - venoushistoryandphysicalexam.qmd
     
     - part: "Carotid Disorders"
       chapters: 
-      - CarotidDisorders.qmd
+      - carotid.qmd
     
     - part: "Aortic Disorders"
       chapters: 
