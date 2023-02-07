@@ -38,7 +38,30 @@ As a vascular specialist, a focused arterial history should include the arteries
 ### Upper Extremity:
 
 -   The evaluation depends on the timing (acute vs. chronic) and then the degree of ischemia (claudication vs. chronic limb-threatening ischemia) .
--   Acute limb ischemia (ALI) is a sudden occlusion of the blood supply with no time for collateral vessels to develop. It is characterized by the **6 Ps.** *Pulselessness, pain, pallor, paresthesia, poikilothermia (cold), and paralysis.* The most common etiology of acute limb ischemia is embolic. However, uncommon causes may be thrombosis of a subclavian–axillary aneurysm. 
+-   **Acute limb ischemia (ALI)** is a sudden occlusion of the blood supply with no time for collateral vessels to develop. It is characterized by the **6 Ps.** *Pulselessness, pain, pallor, paresthesia, poikilothermia (cold), and paralysis.* The most common etiology of acute limb ischemia is embolic. However, uncommon causes may be thrombosis of a subclavian–axillary aneurysm. 
 -   Intermittent hand coldness associated with pain, numbness may reflect Raynaud's syndrome (associated with cold exposure) or small vessel vasospasm like frostbite or scleroderma. 
 -   Raynaud phenomena present as episodes of vasospasm in response to cold or stress. The patient describes the affected areas turning white, blue, and red during an attack. It is associated with feeling cold and numb. As the circulation improves and the affected areas turn red, there is throbbing, tingling, and swelling.
 -   Episodes of ischemia to the digits may be persistent and severe and associated with underlying obliterative microangiopathy and manifest with pain, tissue loss (ulceration or gangrene).
+-   Chronic ischemia of the upper extremity is uncommon can manifest with arm claudication (exertional fatigue). The etiology is most commonly proximal obstruction due to atherosclerotic disease in the subclavian artery. More uncommon causes are Takayasu arteritis and thoracic outlet syndrome.  
+-   Exertion of the arm causing posterior cerebral circulation symptoms (diplopia, dysarthria, dizziness, drop attacks, vertigo, syncope, and ataxia) may reflect a subclavian steal syndrome caused by subclavian artery stenosis proximal to the vertebral artery.
+
+### Abdomen:
+
+-   Aneurysm disease in the abdomen is usually silent.
+-   With weight loss and sitophobia (food fear), postprandial pain may reflect mesenteric artery stenosis.
+-   Severe hypertension, especially in young adults, may reflect renal artery stenosis.  
+-   Aortoiliac occlusive disease may present with Leriche's syndrome. **Leriche's syndrome** is defined as bilateral hip and buttock claudication, absent femoral pulses, and impotence.  
+-   Acute abdominal pain has multiple nonvascular etiologies. A ruptured aneurysm presents severe pain radiating to the back with a pulsatile abdominal mass. Acute mesenteric ischemia manifests as pain out of proportion to the physical exam.  
+
+### Lower Extremities:
+
+- The evaluation depends on the timing (acute vs. chronic) and then the degree of ischemia (claudication vs. chronic limb-threatening ischemia). 
+-   **Acute limb ischemia (ALI)** is a sudden occlusion of the blood supply with no time for collateral vessels to develop. It is characterized by the **6 Ps.** *Pulselessness, pain, pallor, paresthesia, poikilothermia (cold), and paralysis.*
+-   Chronic limb ischemia is frequently asymptomatic and diagnosed on physical exam or vascular lab testing. In asymptomatic disease related to atherosclerotic disease, medical therapy is initiated to prevent disease progression. 
+-   **Claudication** is defined by cramping pain in the leg induced by exercise and relieved by rest. It occurs at a fixed and reproducible distance and resolves with rest. The pain is described as discomfort, cramp, numbness, or tiredness in the legs. Claudication most commonly occurs in the calf muscles, but it can also affect the feet, thighs, hips, buttocks. It is crucial to determine how the patient's lifestyle is affected when taking a history. With proper medical therapy, including medication and exercise, claudication improves> 50% of the time. Fewer than 5% progress to amputation. Amputation is more frequent in patients who continue to smoke, have uncontrolled diabetes, and have renal failure. Differential diagnosis of claudication is in **Table 1** below. Table 1 is also helpful in differentiating between other types of leg pain, pseudo claudication, and true claudication.    
+- **Chronic limb-threatening ischemia (CLTI).** These patients have multiple levels of arterial disease and are at risk of amputation. CLTI manifests as rest pain or tissue loss. Rest pain is characterized as pain in the dorsum of the foot and toes. It is increased with leg elevation and may wake the patient up at night and is relieved by dangling the limb, which increases perfusion by enlisting gravity to help perfuse the leg. Tissue loss can be in the form of an ulcer or gangrene.  
+
+---
+
+## Physical Exam of the Arterial System
+
