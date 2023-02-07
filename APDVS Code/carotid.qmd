@@ -1,13 +1,11 @@
 ---
-title: "Carotid Disorders"
-title-block-banner: false
-author-title: Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS
+title: "Carotid Artery Stenosis"
 format: html
 editor: visual
 bibliography: references.bib
 ---
 
-# Carotid Disorders, APDVS Medical Student Curriculum
+# Carotid Artery Stenosis
 
 Authors: *Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS*
 

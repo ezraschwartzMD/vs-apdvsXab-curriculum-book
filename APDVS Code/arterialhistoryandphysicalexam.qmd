@@ -2,7 +2,7 @@
 title: "Arterial History and Physical Exam"
 format: html
 editor: visual
-number-sections: true
+number-sections: false
 ---
 
 # Patient History and Physical Examination of the *Arterial System*, APDVS Medical Student Curriculum
