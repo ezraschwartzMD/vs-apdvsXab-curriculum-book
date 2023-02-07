@@ -6,6 +6,7 @@ author-title: Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS
 format: html
 editor: visual
 number-sections: true
+bibliography: references.bib
 ---
 
 # Carotid Disorders, APDVS Medical Student Curriculum
@@ -114,12 +115,15 @@ Understandably, optimal medical management requires full risk evaluation of the 
 
 ## Key Articles
 
-1.  Ricotta JJ, Aburahma A, Ascher E, Eskandari M, Faries P, Lal BK; Society for Vascular Surgery. [Updated Society for Vascular Surgery guidelines for management of extracranial carotid disease.](https://www.jvascsurg.org/article/S0741-5214%2811%2901635-1/fulltext) J Vasc Surg. 2011 Sep;54(3):e1-31
-2.  AbuRahma AF, Avgerinos EM, Chang RW, Darling RC 3rd, Duncan AA, Forbes TL, Malas MB, Murad MH, Perler BA, Powell RJ, Rockman CB, Zhou W. [SOCIETY FOR VASCULAR SURGERY CLINICAL PRACTICE GUIDELINES FOR MANAGEMENT OF EXTRACRANIAL CEREBROVASCULAR DISEASE.](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext) J Vasc Surg. 2021 Jun 18.
-3.  [Endarterectomy for asymptomatic carotid stenosis.Executive Committee for the Asymptomatic Carotid Atherosclerosis Study.](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/neurology/documents/ACAS.pdf) JAMA 1995;273(18):1421-8.
-4.  [Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade stenosis. North American Symptomatic Carotid Endarterectomy (NASCET) Trial Collaborators.](https://www.nejm.org/doi/10.1056/NEJM199108153250701?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov) N Engl J Med 1991;325(7):445-53.
+1.  [@Ricotta2011] Ricotta JJ, Aburahma A, Ascher E, Eskandari M, Faries P, Lal BK; Society for Vascular Surgery. [Updated Society for Vascular Surgery guidelines for management of extracranial carotid disease.](https://www.jvascsurg.org/article/S0741-5214%2811%2901635-1/fulltext) J Vasc Surg. 2011 Sep;54(3):e1-31
 
-5.  Howard D.P.J., Gaziano L., Rothwell P.M.: [Risk of stroke in relation to degree of asymptomatic carotid stenosis: a population-based cohort study, systematic review, and meta-analysis.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30484-1/fulltext) Lancet Neurol 2021; 20: pp. 193-202.
+2.  [@AbuRahma2022] AbuRahma AF, Avgerinos EM, Chang RW, Darling RC 3rd, Duncan AA, Forbes TL, Malas MB, Murad MH, Perler BA, Powell RJ, Rockman CB, Zhou W. [SOCIETY FOR VASCULAR SURGERY CLINICAL PRACTICE GUIDELINES FOR MANAGEMENT OF EXTRACRANIAL CEREBROVASCULAR DISEASE.](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext) J Vasc Surg. 2021 Jun 18.
+
+3.  [@walker1995] [Endarterectomy for asymptomatic carotid stenosis.Executive Committee for the Asymptomatic Carotid Atherosclerosis Study.](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/neurology/documents/ACAS.pdf) JAMA 1995;273(18):1421-8.
+
+4.  [@Barnett1991] [Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade stenosis. North American Symptomatic Carotid Endarterectomy (NASCET) Trial Collaborators.](https://www.nejm.org/doi/10.1056/NEJM199108153250701?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov) N Engl J Med 1991;325(7):445-53.
+
+5.  [@Howard2021]Howard D.P.J., Gaziano L., Rothwell P.M.: [Risk of stroke in relation to degree of asymptomatic carotid stenosis: a population-based cohort study, systematic review, and meta-analysis.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30484-1/fulltext) Lancet Neurol 2021; 20: pp. 193-202.
 
 ------------------------------------------------------------------------
 
