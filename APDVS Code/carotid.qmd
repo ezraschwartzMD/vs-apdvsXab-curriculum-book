@@ -2,6 +2,7 @@
 title: "Carotid Artery Stenosis"
 format: html
 editor: visual
+number-sections: false
 bibliography: references.bib
 ---
 

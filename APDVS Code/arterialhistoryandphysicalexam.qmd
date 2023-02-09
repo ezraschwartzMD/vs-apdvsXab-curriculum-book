@@ -5,7 +5,7 @@ editor: visual
 number-sections: false
 ---
 
-# Patient History and Physical Examination of the *Arterial System*, APDVS Medical Student Curriculum
+## Patient History and Physical Examination of the *Arterial System*, APDVS Medical Student Curriculum
 
 Authors: *Dr. Loay S Kabbani, MD, MHSA, FACS and Dr. Cassius Iyad Ochoa Chaar, MD, MS, RPVI*
 
