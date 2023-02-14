@@ -234,26 +234,24 @@ However, we feel this chapter contains all the necessary information to answer t
 ## Additional Resources
 
 -   Audible Bleeding Exam Prep: [Cerebrovascular Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/cerebrovascular.html)
--   Audible Bleeding has an episode covering the NASCET trial. Listen to it [here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/) or wherever you listen to podcast material.
+-   Audible Bleeding has an episode covering the NASCET trial. Listen to it below with additional information [here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/), or find it wherever you listen to podcast material.
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20601968/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 -   TeachMe Surgery: [Carotid Artery Disease](https://teachmesurgery.com/vascular/arterial/carotid-artery-disease/)
 
 ### Operative Footage
 
-Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist.
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist. *YouTube account required as video content is age-restricted.*
 
-{{< video https://www.youtube.com/watch?v=AWXCpRJAN8M 
-    title='Carotid Endarterectomy *Short Version*' 
->}}
+#### Carotid Endarterectomy (Short Version)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AWXCpRJAN8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-{{< video https://www.youtube.com/watch?v=wZ8PzhwmSXQ
-    title='Carotid Endarterectomy *Long Version*, **Part 1**' 
->}}
+#### Carotid Endarterectomy (Long Version) Part 1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZ8PzhwmSXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-{{< video https://www.youtube.com/watch?v=E_wWpRKBy4
-    title='Carotid Endarterectomy *Long Version*, **Part 2**' 
->}}
+#### Carotid Endarterectomy (Long Version) Part 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E_wWpRKBy4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-{{< video https://www.youtube.com/watch?v=kjVyBbDZPnc
-    title='Transcarotid Artery Revascularization (TCAR)' 
->}}
+#### Transcarotid Artery Revascularization (TCAR)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kjVyBbDZPnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
