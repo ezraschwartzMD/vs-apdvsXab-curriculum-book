@@ -233,5 +233,27 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ## Additional Resources
 
--   [Audible Bleeding Exam Prep: Cerebrovascular Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/cerebrovascular.html)
--   Audible Bleeding has an episode covering the NASCET trial. Listen to it below, [here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/) or wherever you listen to podcast material.
+-   Audible Bleeding Exam Prep: [Cerebrovascular Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/cerebrovascular.html)
+-   Audible Bleeding has an episode covering the NASCET trial. Listen to it [here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/) or wherever you listen to podcast material.
+
+-   TeachMe Surgery: [Carotid Artery Disease](https://teachmesurgery.com/vascular/arterial/carotid-artery-disease/)
+
+### Operative Footage
+
+Developed by the Debakey Institute for Cardiovascular Education & Training at Houston Methodist.
+
+{{< video https://www.youtube.com/watch?v=AWXCpRJAN8M 
+    title='Carotid Endarterectomy *Short Version*' 
+>}}
+
+{{< video https://www.youtube.com/watch?v=wZ8PzhwmSXQ
+    title='Carotid Endarterectomy *Long Version*, **Part 1**' 
+>}}
+
+{{< video https://www.youtube.com/watch?v=E_wWpRKBy4
+    title='Carotid Endarterectomy *Long Version*, **Part 2**' 
+>}}
+
+{{< video https://www.youtube.com/watch?v=kjVyBbDZPnc
+    title='Transcarotid Artery Revascularization (TCAR)' 
+>}}
