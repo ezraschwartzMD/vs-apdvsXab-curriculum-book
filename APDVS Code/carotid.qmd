@@ -4,15 +4,17 @@ format: html
 editor: visual
 number-sections: false
 bibliography: references.bib
+smooth-scroll: true
+link-external-newwindow: true
 ---
 
 # Carotid Artery Stenosis
 
 Authors: *Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS*
 
-## Chapter Outline
+::: {.callout-note icon=false}
 
-**Key Facts**
+## Key Facts
 
 1.  Stroke is the leading cause of disability nationally and 3rd leading cause of death with a breakdown of 80% occlusive and 20% hemorrhagic.
 2.  Symptomatic Carotid Stenosis presents with only three symptoms including: Stroke, Transient Ischemic Attack (TIA) and Amaurosis Fugax (transient retinal ischemia).
@@ -22,6 +24,7 @@ Authors: *Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS*
 6.  Carotid Artery Stenting (CAS) indicated for recurrent stenosis after CEA, neck immobility, high carotid bifurcation, contralateral occlusion, high risk open surgical candidate due to cardiopulmonary comorbidity and neck radiation.
 7.  Transcarotid artery revascularization (TCAR) available for direct common carotid delivery of stent avoiding aortic arch manipulation and providing embolic protection through flow reversal.
 8.  Marginal benefit for intervention for asymptomatic carotid artery stenosis patients with significant cardiopulmonary disease due to risks of associated perioperative events.
+:::
 
 ------------------------------------------------------------------------
 

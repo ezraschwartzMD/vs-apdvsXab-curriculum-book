@@ -74,5 +74,5 @@ format:
 editor: visual
 
 comments: 
-  hypothesis: true
-  
+  hypothesis:
+    theme: clean
