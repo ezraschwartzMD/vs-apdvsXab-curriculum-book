@@ -26,6 +26,56 @@ Authors: *Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS*
 8.  Marginal benefit for intervention for asymptomatic carotid artery stenosis patients with significant cardiopulmonary disease due to risks of associated perioperative events.
 :::
 
+::: {.callout-tip}
+## How We Suggest Using the Pre/Post Questions
+
+The pre/post questions are listed below. They are all multiple choice questions with a single right answer. To best guide your learning, we have hidden the answers in a collapsible menu. Before reading the chapter, we suggest giving the questions a try, noting your answers on a notepad. After reading the chapter, return to the questions, re-evaluate your answers, and then open the collapsible menu to read the correct answer and discussion. Do not fret if you have difficulty answering the questions before reading the chapter! By the end of the chapter, we are certain you will have covered the knowledge necessary to answer the questions. There will be a teaching case at the end of the chapter. This is another opportunity to exercise your new knowledge!
+:::
+
+## Pre/Post Questions
+
+1.    A 75-year-old male smoke presents with recent visual changes to his right eye that occurred yesterday, the patient reports a shading of his visual field that resulted in momentary monocular blindness followed by return to normal vision.  He has a carotid duplex showing >50% diameter reduction to his right internal carotid artery and >80% stenosis to his left internal carotid artery.  What treatment should be offered to his patient?
+  A.    Emergent DC cardioversion to treat any underlying arrythmia.
+  B.    Left carotid endarterectomy with shunt placement.
+  C.    Left carotid TCAR.
+  D.    Right carotid endarterectomy.
+  E.    Placement on Apixaban and measurement of PF4 with medical management.
+  
+::: {.callout-note icon=false}
+
+## Answer
+**D. Right carotid endarterectomy**
+Discussion:	The patient has evidence of amaurosis fugax with temporary monocular blindness as a sign of symptomatic right internal carotid artery disease.  His left carotid artery is in a high-grade range and therefore is lower risk of stroke than the contralateral symptomatic lesion.  There should be no immediate surgical treatment of the asymptomatic left carotid lesion.  There is no evidence that the patient has an underlying arrythmia that needs cardioversion and medical management with Apixaban and PF4 levels are unrelated to this patient’s current pathology.
+:::
+
+2.    A 50-year-old female patient with >80% right internal carotid artery stenosis presents to clinic for her first postoperative visit after carotid endarterectomy (CEA).  She has no interval neurologic events since her discharge, has a soft neck with a clean incision.  During your neurologic exam you notice an unintentional, subtle tongue deviation to the side of surgery.  What is the most likely facial nerve involved in this finding?	
+	A.    Vagus Nerve.
+	B.    Hypoglossal Nerve.
+	C.    Glossopharyngeal Nerve.
+	D.    Long Thoracic Nerve.
+	E.    Hering’s Nerve.
+  
+::: {.callout-note icon=false}
+
+## Answer
+**B.  Hypoglossal Nerve**
+Discussion:	This patient has evidence of hypoglossal nerve neuropraxia which can occur as the result of injury or traction on the nerve during distal dissection of the internal carotid artery.  Although both glossopharyngeal nerve injury and vagal injuries can also occur during CEA, one causes oropharyngeal dysfunction with swallowing and the latter causes vocal cord paralysis with hoarse voice.  Long thoracic nerve is more related to thoracic outlet surgery and innervation of the serratus anterior.  The nerve of Hering is related to carotid sinus innervation and is unrelated to this clinical finding. 
+:::
+
+3.    During the initial evaluation of a patient with high grade symptomatic carotid disease, you notice that the patient has internal carotid plaque on that side this is above the angle of the mandible at the 1st cervical vertebral body (C1).  This appears to be too high to access through open surgery.  The patient has no know history of coronary artery disease, has a preserved ejection fraction and good functional status.  He has a low-density lipoprotein level (LDL) of 200 mg/dL.  What is the best treatment option for this individual?
+  A.    Transfemoral carotid artery angioplasty with placement on ASA only.
+	B.    Carotid artery enterectomy with shunt placement.
+	C.    Daily ASA therapy without any type of statin or antihypertensive therapy.
+	D.    Trancarotid artery revascularization (TCAR) surgery with dual antiplatelet therapy.
+ 	E.    No treatment is indicated.
+
+::: {.callout-note icon=false}
+
+## Answer
+**D.  Transcarotid artery revascularization surgery with dual antiplatelet therapy.**
+Discussion:	This patient has symptomatic carotid stenosis with an overall optimal coronary health, based on his lesion being high at C1 and not surgically accessible, they would not qualify for a traditional carotid endarterectomy.  Transfemoral carotid artery angioplasty is not indicated without stent placement, and daily ASA therapy without statin treatment for an LDL of 200mg/dL does not qualify as optimal medical management. Surgical treatment is indicated in this symptomatic patient since he has no significant cardiopulmonary disease and TCAR is the only option listed that could accomplish this outcome successfully.
+:::
+
 ------------------------------------------------------------------------
 
 ## Introduction
@@ -110,6 +160,53 @@ Understandably, optimal medical management requires full risk evaluation of the 
 -   Patients who have \>50% carotid stenosis and have developed symptoms of TIA or stroke were found to benefit from CEA in the pivotal North American Symptomatic Carotid Endarterectomy Trial (NASCET) because of the significant 2-year stroke risk reduction as compared to optimal medical management (15.7% vs. 22.2%.). An even great stroke risk reduction was seen in patients with \>70% carotid stenosis (9% CEA vs. 26% medical management).
 -   Current management of patients with symptomatic \>50% carotid stenosis who are low/standard risk is carotid endarterectomy over transfemoral carotid stenting (TFCAS), as there are no studies to date which have shown benefit of TFCAS.
 -   Patients who are deemed high risk, as defined above, may be considered for TCAR over TFCAS due to the significantly lower incidence of in-hospital stroke and death (1.6% vs. 3.1%).
+
+---
+
+## Teaching Case
+
+### Scenario
+
+81-year male with a significant smoking history and prior three vessel CABG five years ago, is presenting with monocular right eye blindness that occurred two days ago.  He has no prior ophthalmologic conditions and states that he describes the process of a veil coming down over his right eye with resolution about a minute later with complete return of normal vision at that point.  He denies any other symptoms during the event or since as far as motor or sensory deficits, speech, etc.  He did not think much of the event but presented after his wife told him to see someone about the event.  
+
+### Exam
+
+HEENT:    No prior neck incisions, good cervical extension
+Cardiac:    Regular rate and rhythm. Healed sternotomy scar.
+Pulmonary:    Clear to auscultation throughout
+Abdominal:    Soft and nontender
+Neurologic:   All cranial nerves 2-12 intact, no lateralizing deficits, 5/5 strength to all extremities
+Optho:    No visual deficits at 20 feet from eye chart.
+
+### Imaging
+
+Duplex Ultrasound 
+| Location     | Right         | Left        | 
+|--------------|:--------------|------------:|
+| Proximal ICA | 540/240 cm/s  | 120/45 cm/s |
+| Mid ICA      | 230/145 cm/s  | 119/37 cm/s |
+| Distal ICA   | 240/110 cm/s  | 110/23	cm/s |
+
+:Peak Systolic Velocity/End Diastolic Velocity
+
+*Duplex Report*: Based on color flow duplex imaging there is evidence of 80-99% stenosis of the right internal carotid artery segment and <50% stenosis to the contralateral side.
+
+### Discussion Points
+
+:::{.callout-note}
+##N.B. There is no prepared answers for the questions below. 
+
+However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
+:::
+
+1.    Can the learner describe this event as amaurosis fugax to explain the visual event for this patient?  Do they understand that this is the result of carotid plaque embolization to the retina?
+2.    Can the learner list the specific patient risk factors that make them higher risk of this event?  Can they review best medical management to optimize these risk factors?
+3.    Is this patient asymptomatic or symptomatic based on the clinical scenario presented?
+4.    What next steps should be pursued to offer effective and timely treatment to this patient?
+    -   The learner can discuss adjunct imaging such as CTA or MRA to determine anatomic characteristics of the lesions such as ulceration, vessel patency, level (accessible or high lesions), etc.
+5.    Would surgical management could be suggested including a discussion of carotid endarterectomy, transfemoral stenting or TCAR?
+6.    What medications should be started in this scenario, such as ASA, Plavix, statin medications, etc.?
+7.    What are some possible relevant complications of surgical intervention, including periprocedural stroke risk?
 
 ------------------------------------------------------------------------
 
