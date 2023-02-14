@@ -13,38 +13,38 @@ chapters:
 
 - part: "Approach to the Vascular Patient"
 chapters:
-  - Patient History.qmd
-- Vascular Physical Exam.qmd
+- PatientHistory.qmd
+- VascularPhysicalExam.qmd
 
 - part: "Carotid Disorders"
 chapters: 
-  - AAA.qmd
+- AAA.qmd
 - TAA/TAAA.qmd
-- Aortic Dissection.qmd
+- AorticDissection.qmd
 
 - part: "Aortic Disorders"
 chapters: 
-  - AAA.qmd
+- AAA.qmd
 - TAA/TAAA.qmd
-- Aortic Dissection.qmd
+- AorticDissection.qmd
 
 - part: "PAD"
 chapters:
-  - Claudication.qmd
+- Claudication.qmd
 - CLTI.qmd
 - ALI.qmd
 
 - part: "Venous Disease"
 chapters:
-  - DVT & PE.qmd
-- Chronic Venous Insuficiency.qmd
+- DVT & PE.qmd
+- ChronicVenousInsuficiency.qmd
 
 - part: "Miscellaneous"
 chapters:
-  - Acute Mesenteric Ischemia.qmd
-- Dialysis Access.qmd
+- AcuteMesentericIschemia.qmd
+- DialysisAccess.qmd
 - Lymphedema.qmd
-- Peripheral Aneurysms.qmd
+- PeripheralAneurysms.qmd
 
 - part: "General"
 chapters:
@@ -57,9 +57,6 @@ chapters:
 repo-url: https://https://github.com/ezraschwartzMD/vs-apdvsXab-curriculum-book.git
 google-analytics: "G-T4DWNE55D1"
 cookie-consent: true
-number-sections: true
-crossref:
-  chapters: true
 open-graph: true
 twitter-card:
   image: "https://raw.githubusercontent.com/adam-mdmph/vs-examprep/main/images/ab_examprep_cover.png"
