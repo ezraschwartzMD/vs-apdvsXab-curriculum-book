@@ -1,3 +1,7 @@
+```{r}
+knitr::include_graphics("image/APDVSbanner.png")
+```
+
 # Preface {.unnumbered}
 
 This content was developed to as part of the Association of Program Directors in Vascular Surgery's (APDVS) medical student curriculum. Each chapter covers a key domain of vascular surgery pathology and treatment, and is associated with an Audible Bleeding episode which you can access through links embedded into the text.
