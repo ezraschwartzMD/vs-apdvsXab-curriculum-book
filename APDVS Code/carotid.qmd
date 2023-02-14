@@ -34,45 +34,48 @@ The pre/post questions are listed below. They are all multiple choice questions 
 
 ## Pre/Post Questions
 
-1.    A 75-year-old male smoke presents with recent visual changes to his right eye that occurred yesterday, the patient reports a shading of his visual field that resulted in momentary monocular blindness followed by return to normal vision.  He has a carotid duplex showing >50% diameter reduction to his right internal carotid artery and >80% stenosis to his left internal carotid artery.  What treatment should be offered to his patient?
+1.    A 75-year-old male smoke presents with recent visual changes to his right eye that occurred yesterday, the patient reports a shading of his visual field that resulted in momentary monocular blindness followed by return to normal vision.  He has a carotid duplex showing >50% diameter reduction to his right internal carotid artery and >80% stenosis to his left internal carotid artery.  *What treatment should be offered to his patient?*
   A.    Emergent DC cardioversion to treat any underlying arrythmia.
   B.    Left carotid endarterectomy with shunt placement.
   C.    Left carotid TCAR.
   D.    Right carotid endarterectomy.
   E.    Placement on Apixaban and measurement of PF4 with medical management.
   
-::: {.callout-note icon=false}
+::: {.callout-note icon=false collapse="true"}
 
 ## Answer
 **D. Right carotid endarterectomy**
+
 Discussion:	The patient has evidence of amaurosis fugax with temporary monocular blindness as a sign of symptomatic right internal carotid artery disease.  His left carotid artery is in a high-grade range and therefore is lower risk of stroke than the contralateral symptomatic lesion.  There should be no immediate surgical treatment of the asymptomatic left carotid lesion.  There is no evidence that the patient has an underlying arrythmia that needs cardioversion and medical management with Apixaban and PF4 levels are unrelated to this patient’s current pathology.
 :::
 
-2.    A 50-year-old female patient with >80% right internal carotid artery stenosis presents to clinic for her first postoperative visit after carotid endarterectomy (CEA).  She has no interval neurologic events since her discharge, has a soft neck with a clean incision.  During your neurologic exam you notice an unintentional, subtle tongue deviation to the side of surgery.  What is the most likely facial nerve involved in this finding?	
-	A.    Vagus Nerve.
-	B.    Hypoglossal Nerve.
-	C.    Glossopharyngeal Nerve.
-	D.    Long Thoracic Nerve.
-	E.    Hering’s Nerve.
+2.    A 50-year-old female patient with >80% right internal carotid artery stenosis presents to clinic for her first postoperative visit after carotid endarterectomy (CEA).  She has no interval neurologic events since her discharge, has a soft neck with a clean incision.  During your neurologic exam you notice an unintentional, subtle tongue deviation to the side of surgery.  *What is the most likely facial nerve involved in this finding?*
+A.    Vagus Nerve.
+B.    Hypoglossal Nerve.
+C.    Glossopharyngeal Nerve.
+D.    Long Thoracic Nerve.
+E.    Hering’s Nerve.
   
-::: {.callout-note icon=false}
+::: {.callout-note icon=false collapse="true"}
 
 ## Answer
 **B.  Hypoglossal Nerve**
+
 Discussion:	This patient has evidence of hypoglossal nerve neuropraxia which can occur as the result of injury or traction on the nerve during distal dissection of the internal carotid artery.  Although both glossopharyngeal nerve injury and vagal injuries can also occur during CEA, one causes oropharyngeal dysfunction with swallowing and the latter causes vocal cord paralysis with hoarse voice.  Long thoracic nerve is more related to thoracic outlet surgery and innervation of the serratus anterior.  The nerve of Hering is related to carotid sinus innervation and is unrelated to this clinical finding. 
 :::
 
-3.    During the initial evaluation of a patient with high grade symptomatic carotid disease, you notice that the patient has internal carotid plaque on that side this is above the angle of the mandible at the 1st cervical vertebral body (C1).  This appears to be too high to access through open surgery.  The patient has no know history of coronary artery disease, has a preserved ejection fraction and good functional status.  He has a low-density lipoprotein level (LDL) of 200 mg/dL.  What is the best treatment option for this individual?
-  A.    Transfemoral carotid artery angioplasty with placement on ASA only.
-	B.    Carotid artery enterectomy with shunt placement.
-	C.    Daily ASA therapy without any type of statin or antihypertensive therapy.
-	D.    Trancarotid artery revascularization (TCAR) surgery with dual antiplatelet therapy.
- 	E.    No treatment is indicated.
+3.    During the initial evaluation of a patient with high grade symptomatic carotid disease, you notice that the patient has internal carotid plaque on that side this is above the angle of the mandible at the 1st cervical vertebral body (C1).  This appears to be too high to access through open surgery.  The patient has no know history of coronary artery disease, has a preserved ejection fraction and good functional status.  He has a low-density lipoprotein level (LDL) of 200 mg/dL. *What is the best treatment option for this individual?*
+A.    Transfemoral carotid artery angioplasty with placement on ASA only.
+B.    Carotid artery enterectomy with shunt placement.
+C.    Daily ASA therapy without any type of statin or antihypertensive therapy.
+D.    Trancarotid artery revascularization (TCAR) surgery with dual antiplatelet therapy.
+E.    No treatment is indicated.
 
-::: {.callout-note icon=false}
+::: {.callout-note icon=false collapse="true"}
 
 ## Answer
 **D.  Transcarotid artery revascularization surgery with dual antiplatelet therapy.**
+
 Discussion:	This patient has symptomatic carotid stenosis with an overall optimal coronary health, based on his lesion being high at C1 and not surgically accessible, they would not qualify for a traditional carotid endarterectomy.  Transfemoral carotid artery angioplasty is not indicated without stent placement, and daily ASA therapy without statin treatment for an LDL of 200mg/dL does not qualify as optimal medical management. Surgical treatment is indicated in this symptomatic patient since he has no significant cardiopulmonary disease and TCAR is the only option listed that could accomplish this outcome successfully.
 :::
 
@@ -182,7 +185,7 @@ Optho:    No visual deficits at 20 feet from eye chart.
 
 Duplex Ultrasound 
 | Location     | Right         | Left        | 
-|--------------|:--------------|------------:|
+|--------------|:--------------|:------------|
 | Proximal ICA | 540/240 cm/s  | 120/45 cm/s |
 | Mid ICA      | 230/145 cm/s  | 119/37 cm/s |
 | Distal ICA   | 240/110 cm/s  | 110/23	cm/s |
@@ -194,7 +197,7 @@ Duplex Ultrasound
 ### Discussion Points
 
 :::{.callout-note}
-##N.B. There is no prepared answers for the questions below. 
+## N.B. There is no prepared answers for the questions below. 
 
 However, we feel this chapter contains all the necessary information to answer the questions. If not, please let us know!
 :::
