@@ -1,18 +1,12 @@
 ---
-title: "venoushistoryandphysicalexam"
+title: "Venous History and Physical Exam"
 format: html
 editor: visual
 number-sections: true
 ---
 
-# Patient History and Physical Examination of the *Venous System*, APDVS Medical Student Curriculum
+# Patient History and Physical Examination of the **Venous System**
 
-Authors: *xxxx*
+Authors: *Dr. Loay S Kabbani, MD, MHSA, FACS and Dr. Cassius Iyad Ochoa Chaar, MD, MS, RPVI*
 
-## Chapter Outline
-
-**Key Facts**
-
-------------------------------------------------------------------------
-
-## Introduction
+## Chapter in Progress. Stay Tuned!
