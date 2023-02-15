@@ -14,17 +14,10 @@ book:
     - part: "Approach to the Vascular Patient"
       chapters:
       - arterialhistoryandphysicalexam.qmd
-      - venoushistoryandphysicalexam.qmd
     
     - part: "Carotid Disorders"
       chapters: 
       - carotid.qmd
-    
-    - part: "Aortic Disorders"
-      chapters: 
-      - AAA.qmd
-      - TAA-TAAA.qmd
-      - AorticDissection.qmd
 
     - references.qmd
 
