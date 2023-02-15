@@ -26,6 +26,13 @@ Authors: *Angela Kokkosis, MD, FACS and Michael Malinowski, MD, MEHP, FACS*
 8.  Marginal benefit for intervention for asymptomatic carotid artery stenosis patients with significant cardiopulmonary disease due to risks of associated perioperative events.
 :::
 
+::: {.callout-warning icon="false"}
+## Carotid Disease Slide Deck
+
+Please find the slide deck corresponding to this eBook chapter [**here**.](https://docs.google.com/presentation/d/1sySy69sCXjZni1pJkoXCbh5bCYopTBQg/edit?usp=sharing&ouid=103498724122494401400&rtpof=true&sd=true)
+:::
+
+
 ::: {.callout-tip}
 ## How We Suggest Using the Pre/Post Questions
 
@@ -219,23 +226,27 @@ However, we feel this chapter contains all the necessary information to answer t
 
 ## Key Articles
 
-1.  [@Ricotta2011] Ricotta JJ, Aburahma A, Ascher E, Eskandari M, Faries P, Lal BK; Society for Vascular Surgery. [Updated Society for Vascular Surgery guidelines for management of extracranial carotid disease.](https://www.jvascsurg.org/article/S0741-5214%2811%2901635-1/fulltext) J Vasc Surg. 2011 Sep;54(3):e1-31
+1.  Ricotta JJ, Aburahma A, Ascher E, Eskandari M, Faries P, Lal BK; Society for Vascular Surgery. [Updated Society for Vascular Surgery guidelines for management of extracranial carotid disease.](https://www.jvascsurg.org/article/S0741-5214%2811%2901635-1/fulltext) J Vasc Surg. 2011 Sep;54(3):e1-31. [@Ricotta2011]
 
-2.  [@AbuRahma2022] AbuRahma AF, Avgerinos EM, Chang RW, Darling RC 3rd, Duncan AA, Forbes TL, Malas MB, Murad MH, Perler BA, Powell RJ, Rockman CB, Zhou W. [SOCIETY FOR VASCULAR SURGERY CLINICAL PRACTICE GUIDELINES FOR MANAGEMENT OF EXTRACRANIAL CEREBROVASCULAR DISEASE.](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext) J Vasc Surg. 2021 Jun 18.
+2.  AbuRahma AF, Avgerinos EM, Chang RW, Darling RC 3rd, Duncan AA, Forbes TL, Malas MB, Murad MH, Perler BA, Powell RJ, Rockman CB, Zhou W. [SOCIETY FOR VASCULAR SURGERY CLINICAL PRACTICE GUIDELINES FOR MANAGEMENT OF EXTRACRANIAL CEREBROVASCULAR DISEASE.](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext) J Vasc Surg. 2021 Jun 18. [@AbuRahma2022]
 
-3.  [@walker1995] [Endarterectomy for asymptomatic carotid stenosis.Executive Committee for the Asymptomatic Carotid Atherosclerosis Study.](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/neurology/documents/ACAS.pdf) JAMA 1995;273(18):1421-8.
+3.  [Endarterectomy for asymptomatic carotid stenosis.Executive Committee for the Asymptomatic Carotid Atherosclerosis Study.](https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/neurology/documents/ACAS.pdf) JAMA 1995;273(18):1421-8. [@walker1995] 
 
-4.  [@Barnett1991] [Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade stenosis. North American Symptomatic Carotid Endarterectomy (NASCET) Trial Collaborators.](https://www.nejm.org/doi/10.1056/NEJM199108153250701?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov) N Engl J Med 1991;325(7):445-53.
+4.  [Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade stenosis. North American Symptomatic Carotid Endarterectomy (NASCET) Trial Collaborators.](https://www.nejm.org/doi/10.1056/NEJM199108153250701?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov) N Engl J Med 1991;325(7):445-53. [@Barnett1991]
 
-5.  [@Howard2021]Howard D.P.J., Gaziano L., Rothwell P.M.: [Risk of stroke in relation to degree of asymptomatic carotid stenosis: a population-based cohort study, systematic review, and meta-analysis.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30484-1/fulltext) Lancet Neurol 2021; 20: pp. 193-202.
+5.  Howard D.P.J., Gaziano L., Rothwell P.M.: [Risk of stroke in relation to degree of asymptomatic carotid stenosis: a population-based cohort study, systematic review, and meta-analysis.](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30484-1/fulltext) Lancet Neurol 2021; 20: pp. 193-202. [@Howard2021]
 
 ------------------------------------------------------------------------
 
 ## Additional Resources
 
+### Audible Bleeding Content
+
 -   Audible Bleeding Exam Prep: [Cerebrovascular Chapter](https://adam-mdmph.quarto.pub/vascular-surgery-exam-prep/cerebrovascular.html)
--   Audible Bleeding has an episode covering the NASCET trial. Listen to it below with additional information [here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/), or find it wherever you listen to podcast material.
+-   Audible Bleeding has an episode covering the NASCET trial. Listen to it below and find [additional information here](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/), or find the epsiode wherever you listen to podcasts.
 <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/20601968/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/980c0c/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+### Websites
 
 -   TeachMe Surgery: [Carotid Artery Disease](https://teachmesurgery.com/vascular/arterial/carotid-artery-disease/)
 
